@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>tnerguz@npz.bet</string>
+	<key>contactName</key>
+	<string>Gareth Marshall</string>
+	<key>description</key>
+	<string>Support for editing Delphi form files</string>
+	<key>mainMenu</key>
+	<dict>
+		<key>excludedItems</key>
+		<array>
+		</array>
+		<key>items</key>
+		<array>
+		</array>
+		<key>submenus</key>
+		<dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>Delphi Form</string>
+	<key>ordering</key>
+	<array>
+		<string>0b59c934-1b7c-4a40-903d-775d184083d1</string>
+	</array>
+	<key>uuid</key>
+	<string>4b040090-582b-4cbc-a396-1c1c7de4261b</string>
+</dict>
+</plist>
